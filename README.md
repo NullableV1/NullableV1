@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-**About Me :**<br>Software Engineering Student & Android Developer passionate about Kotlin, <br>clean architecture, and building practical applications.<br>Currently exploring Jetpack Compose, REST APIs, and Spring Boot.<br>
+**About Me :**<br>Software Engineering Student & Android Developer passionate about Kotlin, <br>software architecture, and building practical applications.<br>Currently exploring Jetpack Compose, REST APIs, and Spring Boot.<br>
 
 
 ## 🌐 Socials:
